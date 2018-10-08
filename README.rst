@@ -15,7 +15,7 @@ Nội dung
 Phần chuẩn bị
 *************
 
-* Build và compiler chương trình C++ với Visual Code.
+* Build và compiler chương trình C++ với Visual Studio Code.
 
 Phần lý thuyết
 **************
