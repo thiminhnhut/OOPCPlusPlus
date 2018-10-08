@@ -12,6 +12,11 @@ Lập trình hướng đối tượng trong C++
 Nội dung
 ########
 
+Phần chuẩn bị
+*************
+
+* Build và compiler chương trình C++ với Visual Code.
+
 Phần lý thuyết
 **************
 
@@ -23,3 +28,5 @@ Phần lý thuyết
 
 Phần bài tập thực hành
 **********************
+
+1. `Quản lý cán bộ trong trường đại học <https://github.com/thiminhnhut/OOPCPlusPlus/blob/master/Examples/QuanLyCanBoTrongTruongDaiHoc>`_

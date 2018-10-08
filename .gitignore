@@ -33,3 +33,7 @@
 
 *.dev
 *.layout
+
+*.win
+*.vscode
+*.txt

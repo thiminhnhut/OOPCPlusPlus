@@ -50,6 +50,9 @@ Yêu cầu sử dụng tính kế thừa và đa hình. Lập trình các chức
 Bài làm
 =======
 
-* Xây dựng lớp cơ sở: ``CanBo``
+* Xây dựng lớp cơ sở ``CanBo`` và các lớp ``GiangVien``, ``NhanVienHanhChinh`` kế thừa từ lớp cơ sở ``CanBo``.
 
-.. literalinclude:: source/CanBo.h
+* Xây dựng lớp ``QuanLyCanBo`` để thực hiện các yêu cầu.
+
+* Source code: `QuanLyCanBoTrongTruongDaiHoc <https://github.com/thiminhnhut/OOPCPlusPlus/tree/master/Examples/QuanLyCanBoTrongTruongDaiHoc/source>`_
+
