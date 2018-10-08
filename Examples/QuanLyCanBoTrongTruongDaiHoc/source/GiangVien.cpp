@@ -5,8 +5,6 @@ GiangVien::GiangVien() {
 }
 
 void GiangVien::nhap() {
-
-	id = 1;
     CanBo::nhap();
 
     fflush(stdin);
@@ -53,5 +51,5 @@ unsigned int GiangVien::tinhLuong() {
 }
 
 unsigned char GiangVien::getID() {
-	return id;
+	return 1;
 }

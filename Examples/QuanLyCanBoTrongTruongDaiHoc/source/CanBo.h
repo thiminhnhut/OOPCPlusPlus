@@ -10,7 +10,6 @@ class CanBo
     string hoTen;
     unsigned int phuCap;
     unsigned short heSoLuong;
-    unsigned char id;
 
   public:
     CanBo();

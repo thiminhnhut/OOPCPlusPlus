@@ -5,8 +5,6 @@ NhanVienHanhChinh::NhanVienHanhChinh() {
 }
 
 void NhanVienHanhChinh::nhap() {
-	id = 2;
-	
     CanBo::nhap();
 
     fflush(stdin);
@@ -54,5 +52,5 @@ unsigned int NhanVienHanhChinh::tinhLuong() {
 }
 
 unsigned char NhanVienHanhChinh::getID() {
-	return id;
+	return 2;
 }
