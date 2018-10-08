@@ -5,7 +5,6 @@
 #include "NhanVienHanhChinh.h"
 #include <fstream>
 #include <vector>
-#include <typeinfo>
 
 class QuanLyCanBo
 {
