@@ -30,3 +30,5 @@ Phần bài tập thực hành
 **********************
 
 1. `Quản lý cán bộ trong trường đại học <https://github.com/thiminhnhut/OOPCPlusPlus/blob/master/Examples/QuanLyCanBoTrongTruongDaiHoc>`_
+
+2. `Quản lý học sinh <https://github.com/thiminhnhut/OOPCPlusPlus/blob/master/Examples/QuanLyHocSinh>`_
