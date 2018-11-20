@@ -26,6 +26,8 @@ Phần lý thuyết
 
 3. `Static trong C++ <https://github.com/thiminhnhut/OOPCPlusPlus/blob/master/Tutorials/static.md>`_
 
+4. `Forward Declaration trong C++ <https://github.com/thiminhnhut/OOPCPlusPlus/blob/master/Tutorials/forward_declaration.md>`_
+
 Phần bài tập thực hành
 **********************
 
